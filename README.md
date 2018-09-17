@@ -1,0 +1,1 @@
+Creative environement is a project to make the developement procress of creative work in javascript easier.
